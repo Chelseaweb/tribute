@@ -1,0 +1,36 @@
+
+body{
+    font-family: 'Lemonada', cursive;
+    font-size: 30px;
+}
+img{
+    width: 500px ; 
+}
+
+h2{
+    text-align:center ;
+    color: tomato;
+}
+#mutizira{
+    background-color:hotpink;
+    display:flex;
+    justify-content: center;
+    clip-path: box(0 0, 50%, 50%, 50%, 50%, 0 84%);
+    border-bottom: black 10px;
+    font-family: 'Lemonada', cursive;
+    font-size: 20px
+    
+    
+
+}
+#chel{ 
+    font-size: 40px;
+
+}
+
+
+.lilo{
+    font-size: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
